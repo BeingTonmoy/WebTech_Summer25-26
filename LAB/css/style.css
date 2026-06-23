@@ -1,0 +1,16 @@
+body {
+  background-color: #abaaa7; /* off white */
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: red;
+}
+
+form {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
